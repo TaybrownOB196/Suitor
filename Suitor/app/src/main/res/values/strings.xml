@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Suitor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="creator_name">Taylor Brown</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Controls-->
+    <string name="up">Up</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="down">Down</string>
+
+</resources>
